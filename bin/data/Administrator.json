@@ -1,0 +1,31 @@
+{
+	"exam": "Administrator",
+	"sections": [
+		"Organization Setup",
+		"User Setup",
+		"Security and Access",
+		"Standard and Custom Objects",
+		"Sales and Marketing Applications",
+		"Service and Support Applications",
+		"Activity Management and Collaboration",
+		"Data Management",
+		"Analytics, Reports, and Dashboards",
+		"Workflow and Process Automation",
+		"Desktop and Mobile Administration",
+		"AppExchange"
+	],
+	"weights": [
+		0.03,
+		0.07,
+		0.13,
+		0.14,
+		0.14,
+		0.13,
+		0.03,
+		0.1,
+		0.1,
+		0.08,
+		0.03,
+		0.02
+	]
+}

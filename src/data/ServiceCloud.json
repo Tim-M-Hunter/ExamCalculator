@@ -1,0 +1,25 @@
+{
+	"exam": "Service Cloud",
+	"sections": [
+		"Industry Knowledge",
+		"Implementation Strategies",
+		"Service Cloud Solution Design",
+		"Knowledge Management",
+		"Interaction Channels",
+		"Case Management",
+		"Contact Center Analytics",
+		"Integration and Data Management",
+		"Service Console"
+	],
+	"weights": [
+		0.1,
+		0.15,
+		0.16,
+		0.09,
+		0.1,
+		0.15,
+		0.05,
+		0.05,
+		0.15
+	]
+}

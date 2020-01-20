@@ -1,0 +1,21 @@
+{
+	"exam": "Community Cloud",
+	"sections": [
+		"Implementation",
+		"Sharing and Security",
+		"Community Setup",
+		"Community Builder",
+		"Community Management",
+		"Content",
+		"Templates and Use Cases"
+	],
+	"weights": [
+		0.22,
+		0.2,
+		0.18,
+		0.12,
+		0.11,
+		0.09,
+		0.08
+	]
+}

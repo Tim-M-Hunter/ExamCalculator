@@ -1,0 +1,23 @@
+{
+	"exam": "Platform Developer 2",
+	"sections": [
+		"Salesforce Fundamentals",
+		"Data Modeling and Management",
+		"Logic and Process Automation",
+		"User Interface",
+		"Integration",
+		"Testing",
+		"Performance",
+		"Debug and Deployment Tools"
+	],
+	"weights": [
+		0.08,
+		0.05,
+		0.2,
+		0.2,
+		0.14,
+		0.13,
+		0.15,
+		0.05
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"exam": "App Builder",
+	"sections": [
+		"Salesforce Fundamentals",
+		"Data Modeling and Management",
+		"Security",
+		"Business Logic and Process Automation",
+		"Social",
+		"Reporting",
+		"User Interface",
+		"Mobile",
+		"App Development"
+	],
+	"weights": [
+		0.08,
+		0.2,
+		0.1,
+		0.27,
+		0.03,
+		0.05,
+		0.14,
+		0.05,
+		0.08
+	]
+}

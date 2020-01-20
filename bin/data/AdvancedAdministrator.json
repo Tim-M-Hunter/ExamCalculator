@@ -1,0 +1,27 @@
+{
+	"exam": "Administrator",
+	"sections": [
+		"Security and Access",
+		"Extending Custom Objects and Applications",
+		"Auditing and Monitoring",
+		"Sales Cloud Applications",
+		"Service Cloud Applications",
+		"Data Management",
+		"Content Management",
+		"Change Management",
+		"Analytics, Reports, and Dashboards",
+		"Process Automation"
+	],
+	"weights": [
+		0.2,
+		0.08,
+		0.06,
+		0.1,
+		0.1,
+		0.1,
+		0.03,
+		0.1,
+		0.1,
+		0.13
+	]
+}

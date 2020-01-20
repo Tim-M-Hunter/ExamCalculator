@@ -1,0 +1,8 @@
+Administrator
+AdvancedAdministrator
+AppBuilder
+CommunityCloud
+PlatformDeveloper1
+PlatformDeveloper2
+SalesCloud
+ServiceCloud
